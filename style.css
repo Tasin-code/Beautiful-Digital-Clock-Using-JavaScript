@@ -1,0 +1,17 @@
+@font-face {
+    font-family: digital;
+    src: url(digital.ttf);
+}
+
+body {
+    background-color: black;
+}
+
+#clock {
+    font-size: 160px;
+    font-family: digital;
+    width: 900px;
+    margin: 200px;
+    color: aqua;
+    text-align: center;
+}
